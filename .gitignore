@@ -1,0 +1,4 @@
+build/
+.qtcreator/
+.qmlls.ini
+CMakeUserPresets.json
